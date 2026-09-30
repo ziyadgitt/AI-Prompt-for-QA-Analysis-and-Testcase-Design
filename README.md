@@ -18,7 +18,7 @@ The prompts work in any general-purpose AI assistant. They also work as a manual
 | `prompts/02-test-case-design.md` | Test case design for a single ticket |
 | `prompts/03-rtm-test-suite.md` | RTM and test suite for multiple tickets |
 | `examples/AI_Requirement_Analysis.docx` | Sample gate review of five stories |
-| `examples/QA_Test_Case_Design_JIRA-4521.docx` | Sample test design for one ticket |
+| `examples/QA_Test_Case_Design.docx` | Sample test design for one ticket |
 | `examples/QA_Test_Case_Suite.docx` | Sample RTM-based suite covering three tickets (31 test cases) |
 
 All tickets and stories in the examples are fabricated. They are not taken from any real product or project.
